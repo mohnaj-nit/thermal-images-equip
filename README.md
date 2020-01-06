@@ -1,6 +1,8 @@
 # thermal-images-equip
 This is thermal images (IRT) dataset in the context of condition monitoring of electrical equipment--Induction Motors & Transformer. All artifact generated faults in this dataset are internal faults and depend on neither external pieces nor failure in initial setup electrical components. For the induction motor, 8 different cases of short circuit failures in the stator windings, stuck rotor fault and cooling fan failure are taken into account and for the transformer, 8 different cases of short circuit failures in common core winding are considered. Thermal image acquisition is done at the workbench by a Dali-tech T4/T8 infrared thermal image camera at an Electrical Machines Laboratory at the environment temperature of 23°.
 
+To pave the way for future research or testing AI systems, the IR-image datasets have been developed that have been made publicly available for use by researchers in this field. The university support repository page, as well as this page, will replicate the thermal images dataset available to public use. Therefore, for the reservation of the BNUT rights,  referencing this page or the relevant paper, which is going in a process of publication, is a desideratum.
+
 -----------------------------------------------------------------------------------------
 Thermal camera properties: 
 Dali-tech T8 TIC
