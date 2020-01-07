@@ -31,7 +31,7 @@ Image counts for different conditions of Induction Motor. The num%-stator indica
                             50%-stator                       30%-stator                        10%-stator
 Cooling      Rotor                                                                                                             Healthy
                             2-Phase     1-Phase       3-Phase   2-Phase      1-Phase       3-Phase   2-Phase      1-Phase
- 28            31            3S          35             42        3tS          37           31        31           34             25
+ 28            30            38          35             42        38          37           31        31           34             25
 Total of 369 images   
 
 
