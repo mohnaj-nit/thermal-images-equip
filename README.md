@@ -41,4 +41,7 @@ Image counts for different conditions of Transformer. The first row shows the nu
 Healthy         80       160      240        320       400       480        560          600
   22            26        31       26         26       25        27          32           40
 Total of 255 images
-
+-----------------------------------------------------------------------------------------
+Rights Reserved. 
+Applying this dataset is allowed just by considering the creator's citation for any academic or other purposes.
+Contact email: m.najafi@nit.ac.ir
